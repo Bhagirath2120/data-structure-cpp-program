@@ -4,6 +4,7 @@
         "*.dbclient-js": "javascript",
         "*.embeddedhtml": "html",
         "*.sql": "mysql",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
