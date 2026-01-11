@@ -15,9 +15,9 @@ int main(){
          
 
 
-       // while loop
+    //    while loop
 
-        f =1;
+    //     f =1;
     //    while(n>=test){
 
     //        f *=x;
