@@ -12,7 +12,7 @@ for(i=0;i<5;i++){
         cout<<endl<<i<<a[i]<<i<<a[i];
     }
     getch();
-
+cout<< "hello world"<<endl;
 }
 cout<<endl<<endl;
 for(i=4;i>0;i--){
