@@ -2,6 +2,7 @@
 
 
 #include<iostream>
+#include<conio.h>
 using namespace std;
 int main()
 {
@@ -14,7 +15,7 @@ int main()
     
    cin>>a[i];
 
-cout<<"Enter position to swap: ";
+cout<<" Enter position to swap : ";
 cin>>n;
 for(i=4;i>n;i--)
 a[i]=a[i-1];
@@ -27,6 +28,6 @@ cout<<a[j-i]<<endl;
 
 
 
-    return 0;
+    getch();
 
 }
