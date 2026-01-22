@@ -5,7 +5,7 @@ int main (){
       int a[5];
       int s=0,i;
 
-      cout<<"address of array\n ";
+      cout<<" address of array\n ";
 
 for(i=0;i<=5;i++){
    
