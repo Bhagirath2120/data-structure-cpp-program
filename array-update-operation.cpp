@@ -15,6 +15,7 @@ int main(){
  cout<<arr[i]<<endl;
 
  getch();
-return 0;
+
+//return 0;
 
 }
