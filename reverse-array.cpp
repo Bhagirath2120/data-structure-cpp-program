@@ -5,7 +5,7 @@ int main(){
 
     int i;
     int a[5];
-cout<<"Enter 5 ints\n";
+cout<<" Enter 5 ints\n";
 for(i=0;i<5;i++){
     cin>>a[i];
     for(i=0;i<5;i++){
