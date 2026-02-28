@@ -5,7 +5,7 @@ using namespace std;
 
 void swap()
 {
-    temp=firstA;
+     temp=firstA;
     while(temp->next!=NULL)
     temp=temp->next;
     ttemp=temp->prev;
