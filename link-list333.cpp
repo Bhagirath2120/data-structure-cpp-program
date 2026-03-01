@@ -6,7 +6,7 @@ void add.beter.first(){
     temp=first->prev;
     ttemp=new node;
     cin>>ttemp->data;
-    ttemp->next=first;
+     ttemp->next=first;
     first->prev=ttemp;
     temp->next=
 }
