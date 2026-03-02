@@ -6,10 +6,11 @@ class bank
 {
 public:
     int a;
-    string Name;
+     string Name;
 
     string customer(string Name)
     {
+
         this->Name = Name;
         cout << "Customer name:- " << Name << endl;
     }
