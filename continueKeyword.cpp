@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    int n;
+     int n;
     cout<< "Enter Number : ";
     cin>> n;
 
