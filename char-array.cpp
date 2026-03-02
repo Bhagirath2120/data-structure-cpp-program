@@ -7,7 +7,7 @@ int main(){
 string arr[5];
 
 for(int j=1;j<6;j++){
-cout<<"Enter "<<j<< " Name:-";
+ cout<<"Enter "<<j<< " Name:-";
 // 
 cin>> arr[j];
     
