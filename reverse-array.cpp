@@ -16,7 +16,7 @@ cout<< "hello world"<<endl;
 }
 cout<<endl<<endl;
 for(i=4;i>0;i--){
-    cout<<i<<a[i];
+     cout<<i<<a[i];
     getch();
 }
 
