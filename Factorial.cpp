@@ -8,7 +8,7 @@ int main(){
     cin>>n;
 
 
-    for(int i = 1; i <= n; i++){
+     for(int i = 1; i <= n; i++){
             f *= i;
         cout<<"Factorial of " <<  i << " : "<< f<<endl;
         }
