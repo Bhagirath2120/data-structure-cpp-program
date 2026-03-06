@@ -2,8 +2,7 @@
 using namespace std;
 int main(){
 int n;
-int a[5],i;
-{
+ {
     cout<<"Enter array element: ";
 for(i=0;i<5;i++)
 cin>>a[i];
