@@ -3,7 +3,7 @@ using namespace std;
 class Demo{
 
     public:
-    int x,y;
+     int x,y;
     string name_;
     Demo(string name){
         name_ = name;
