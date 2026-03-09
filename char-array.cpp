@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 string arr[5];
-
+g
 for(int j=1;j<6;j++){
   cout<<"Enter "<<j<< " Name:-";
 // 
